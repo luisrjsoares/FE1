@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+Header  {
+    font-family: 'Archivo Black', sans-serif;
+    background-color: black;
+    color: white ;
+    padding:1mm;
+}
+
+h1{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 80px;
+    margin-bottom: 0px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.h21{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 25px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+h2{ font-family: 'Archivo Black', sans-serif;
+    }
+
+h3{ font-family: 'Archivo Black', sans-serif;
+    margin: 50px;
+    }
+
+#acidade{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin: 0, 50px, 0, 1150px;
+
+}
+
+.fotoprincipal{
+    image-rendering: auto;
+}
+
+#dados{
+    margin: 0px, 40px, 0px, 40px;
+    border-color: brown;
+    border-style:double;
+}
+
+
+.aerea{
+    width: auto;
+    height: auto;
+    max-width: 200px;
+}
+
+#video{
+margin: 100px;
+}
+
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
+#imagemp{
+    text-align: center;
+}
